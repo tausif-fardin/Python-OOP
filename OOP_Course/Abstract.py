@@ -25,6 +25,7 @@ class Square(Shape):
 
 
 mysquare = Square(12)
+
 print(mysquare.area())
 print(mysquare.perimeter())
 
